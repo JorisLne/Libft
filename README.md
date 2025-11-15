@@ -1,14 +1,6 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/42%20School-Libft-black?style=for-the-badge&logo=42" alt="Projet 42 Libft" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/JorisLne/42-project-badges/blob/main/badges/libftm.png?raw=true" alt="Badge Libft">
-</p>
-
-<p align="center">
   <img 
-    src="https://github.com/JorisLne/42-project-badges/blob/main/covers/cover-libft.png?raw=true" 
+    src="https://github.com/JorisLne/42-project-badges/blob/main/covers/cover-libft-bonus.png?raw=true" 
     alt="Bannière de présentation du projet Libft" 
     width="80%">
 </p>
@@ -19,11 +11,12 @@
   <img src="https://img.shields.io/badge/Langage-C-blue.svg?style=flat-square&logo=c" alt="Langage C" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/JorisLne/42-project-badges/blob/main/badges/libftm.png?raw=true" alt="Badge Libft">
 </p>
 
+</p>
 
-
-# Documentation de la Libft : Fonctions, Structures et Utilisation
 
 La **Libft** est une bibliothèque C personnelle, souvent réalisée dans le cadre du cursus 42, qui réimplemente de nombreuses fonctions standards : gestion de mémoire, de chaînes de caractères et de listes chaînées.
 
